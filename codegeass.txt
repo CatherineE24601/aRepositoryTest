@@ -5,3 +5,6 @@ fast-graphrag:
 https://www.lllyyb.com/archives/mdPh1myH
 KAG:
 https://zhuanlan.zhihu.com/p/7471456241
+
+reranking网站：
+https://techdiylife.github.io/blog/topic.html?category2=t07&blogid=0049

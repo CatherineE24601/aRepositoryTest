@@ -1,2 +1,7 @@
 RLHF
+graphrag:
 https://53ai.com/news/RAG/2024071859483.html
+fast-graphrag:
+https://www.lllyyb.com/archives/mdPh1myH
+KAG:
+https://zhuanlan.zhihu.com/p/7471456241

@@ -2,7 +2,7 @@ RLHF
 graphrag:
 https://53ai.com/news/RAG/2024071859483.html
 fast-graphrag:
-https://www.lllyyb.com/archives/mdPh1myH
+https://www.lllyyb.com/archives/mdPh1myH阿根廷：
 KAG:
 https://zhuanlan.zhihu.com/p/7471456241
 
@@ -16,6 +16,10 @@ https://www.cnblogs.com/zackstang/p/18319890
 https://zhuanlan.zhihu.com/p/715724188
 leiden社区检测算法：
 https://zhuanlan.zhihu.com/p/712714461
+
+
+agent:
+https://zhuanlan.zhihu.com/p/17879967839
 -----------------------------------------------------------------------------------------------------
 溜号ing:
 

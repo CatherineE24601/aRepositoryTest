@@ -20,6 +20,10 @@ https://zhuanlan.zhihu.com/p/712714461
 
 agent:
 https://zhuanlan.zhihu.com/p/17879967839
+agent实现 langchain:
+https://zhuanlan.zhihu.com/p/656779738
+https://zhuanlan.zhihu.com/p/698186044
+
 -----------------------------------------------------------------------------------------------------
 溜号ing:
 

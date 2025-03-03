@@ -24,6 +24,11 @@ agent实现 langchain:
 https://zhuanlan.zhihu.com/p/656779738
 https://zhuanlan.zhihu.com/p/698186044
 
+
+
+nohup python wzz_rag.py >wzz_rag.txt 2>&1 &
+
+
 -----------------------------------------------------------------------------------------------------
 溜号ing:
 
